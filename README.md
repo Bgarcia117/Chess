@@ -12,4 +12,4 @@
 3. Build and run the project.
 
 ## Status
-**This project is still under construction. Expect frequent updates and changes.**
+**This project is still under construction. Expect updates and changes.**
